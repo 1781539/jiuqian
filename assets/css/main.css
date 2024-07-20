@@ -6891,8 +6891,8 @@ blockquote span {
   height: 50px;
   width: 50px;
   display: block;
+  border-radius: 5px;
   text-align: center;
-  background: #473BF0;
   color: #fff;
   line-height: 50px;
   border-radius: 5px;
